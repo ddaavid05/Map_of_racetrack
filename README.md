@@ -79,5 +79,8 @@ pcl_viewer racetrack.pcd
 pcl_viewer voxelized_racetrack.pcd
 ```
 
+![rviz_map_of_racetrack_2](https://github.com/ddaavid05/map_of_racetrack/assets/166250934/76bcc4e4-ff2d-4d53-8246-4d26a9778af7)
+
+
 
 
