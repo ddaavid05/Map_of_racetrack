@@ -61,11 +61,11 @@ You can follow how the track is drawn.
 
 **Option 2:**
 
-After you terminate the node, two file will be created: racetrack.pcb and voxelized_racetrack.pcb
+After you terminate the node, two file will be created: racetrack.pcb and voxelized_racetrack.pcb.
 
  - racetrack.pcb: contains all the measured points
 
- - voxelized_racetrack.pcb: cointain the filtered points only
+ - voxelized_racetrack.pcb: cointains the filtered points only
 
 You can open the file with pcl_viewer
 
